@@ -5,7 +5,7 @@
 
 ⚡ notion : https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3
 
-![Kwon Se-jin's github stats](https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical)
+![Kwon Se-jin's github stats](https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical)<span>                       </span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0307kwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
