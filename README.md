@@ -6,6 +6,12 @@
 ![focus](https://img.shields.io/badge/focus-frontend-orange)
 ![living](https://img.shields.io/badge/living-Daegu-3c9) [⚡notion](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
 
+> 🏢 Kyungpook National University, Department of Electronic Engineering
+>
+> 🐱 github : [https://github.com/0307kwon](https://github.com/0307kwon)
+>
+> 🔗 blog : [https://blog.naver.com/0420kwon](https://blog.naver.com/0420kwon)
+
 <img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px><span>                       </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0307kwon&layout=compact" height=175px>
 <!--
 **0307kwon/0307kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
