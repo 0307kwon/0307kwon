@@ -4,11 +4,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0307kwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![focus](https://img.shields.io/badge/focus-frontend-orange)
-![living](https://img.shields.io/badge/living-Daegu-3c9) [⚡notion](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
+![living](https://img.shields.io/badge/living-Daegu-3c9) [notion](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
 
 > 🏢 Kyungpook National University, Department of Electronic Engineering
 >
-> 🐱 github : [https://github.com/0307kwon](https://github.com/0307kwon)
+> ⚡ notion : [https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
 >
 > 🔗 blog : [https://blog.naver.com/0420kwon](https://blog.naver.com/0420kwon)
 
