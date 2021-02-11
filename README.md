@@ -8,9 +8,7 @@
 
 > 🏢 Kyungpook National University, Department of Electronic Engineering
 >
-> 🐱 notion : [https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
->
-> 🔗 blog : [https://blog.naver.com/0420kwon](https://blog.naver.com/0420kwon)
+> 🔗 blog : [https://velog.io/@0307kwon](https://velog.io/@0307kwon)
 
 <img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px><span>                       </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0307kwon&layout=compact" height=175px>
 <!--
