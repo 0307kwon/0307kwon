@@ -10,7 +10,7 @@
 >
 > 🔗 blog : [https://velog.io/@0307kwon](https://velog.io/@0307kwon)
 
-<img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px><span>                       </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0307kwon&layout=compact" height=175px>
+<img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px>
 <!--
 **0307kwon/0307kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
