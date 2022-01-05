@@ -6,8 +6,6 @@
 ![focus](https://img.shields.io/badge/focus-frontend-orange)
 ![living](https://img.shields.io/badge/living-Seoul-3c9)
 
-> 🏢 Kyungpook National University, Department of Electronic Engineering
->
 > 🔗 blog : [https://velog.io/@0307kwon](https://velog.io/@0307kwon)
 
 <img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px>
