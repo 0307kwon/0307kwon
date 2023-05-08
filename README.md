@@ -6,7 +6,7 @@
 ![focus](https://img.shields.io/badge/focus-frontend-orange)
 ![living](https://img.shields.io/badge/living-Seoul-3c9)
 
-> 🔗 blog : [https://velog.io/@0307kwon](https://velog.io/@0307kwon)
+> 🔗 blog : [https://0307kwon.com](https://0307kwon.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px>
 <!--
